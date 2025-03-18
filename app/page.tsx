@@ -30,3 +30,13 @@ export default function Home() {
     </div>
   );
 }
+import Image from 'next/image';
+
+export default function Home() {
+  return (
+    <div>
+      <h1>Mi Tarjeta Digital</h1>
+      <Image src="/perfil.jpg" alt="Foto de perfil" width={150} height={150} />
+    </div>
+  );
+}

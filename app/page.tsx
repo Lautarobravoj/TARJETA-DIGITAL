@@ -13,7 +13,7 @@ export default function Home() {
         <ul>
           <li>🔧 Reparaciones</li>
           <li>🏗 Remodelaciones</li>
-          <li>🏠 Construcción</li>
+          <li>🏠 hola</li>
         </ul>
       </section>
 

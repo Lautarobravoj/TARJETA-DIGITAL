@@ -19,7 +19,7 @@ export default function Home() {
 
       <section style={{ textAlign: 'center', marginTop: '20px' }}>
         <h2>Contacto</h2>
-        <a href="tel:+34695">📞 Llamar</a> | 
+        <a href="tel:+34624113764">📞 Llamar</a> | 
         <a href="https://wa.me/34695541370">💬 WhatsApp</a> | 
         <a href="https://maps.google.com/?q=Ubicacion">📍 Ubicación</a>
       </section>
